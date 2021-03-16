@@ -2,7 +2,7 @@ body {
     background-color: hsl(185, 75%, 39%);
     background-image: url(/images/bg-pattern-bottom.svg), url(/images/bg-pattern-top.svg);
     background-repeat: no-repeat;
-    background-position: 37rem 20rem, -20rem -30rem;
+    background-position: 45vw 20vw, -20vw -43vw;
     justify-content: space-between;
     flex-direction: column;
     padding-top: 25vh;
@@ -100,4 +100,11 @@ p.p-stats {
 
 div.attribution {
     margin-top: 100px;
+}
+
+@media screen and (max-width: 375px) {
+    body {
+        background-position: 50vw 80vw, -110vw -120vw;
+        background-size: 600px 600px
+    }
 }
