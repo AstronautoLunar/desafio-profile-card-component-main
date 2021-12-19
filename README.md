@@ -1,5 +1,12 @@
 <h1 align="center">Profile card component</h1>
 
+<div align="center">
+  <img
+    src="https://github.com/Pyedrown/desafio-profile-card-component-main/blob/master/presentation.PNG"
+    alt="presentation image"
+  />
+</div>
+
 <p align="center">Concluido o desafio Profile card component do frontEnd Mentor, essa é a minha melhor solução</p>
 
 * [Sobre](#Sobre)
@@ -7,7 +14,7 @@
 * [Tecnologias](#tecnologias)
 
 <h4 align="center">
-  Concluido
+  ✅ Concluido ✅
 </h4>
 
 ## Sobre
